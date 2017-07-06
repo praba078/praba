@@ -7,9 +7,9 @@ public class Factorial {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 Scanner sp=new Scanner(System.in);
-int num=sp.nextInt();
+int number7=sp.nextInt();
 long fact=1;
-for(int i=1;i<=num;i++)
+for(int i=1;i<=number7;i++)
 {
 	fact=fact*i;
 }
